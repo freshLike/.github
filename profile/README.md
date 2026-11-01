@@ -1,10 +1,9 @@
 <div align="center">
 
-# 🌿 freshLike!
-
+<img src="https://freshlike.games/images/512x512.png" width="130" alt="freshLike! Logo" />
+# freshLike!
 ### Официальный GitHub-профиль проекта Minecraft-сервера **freshLike!**
 *Разработка кастомных плагинов, систем безопасности и серверной инфраструктуры.*
-
 <br/>
 
 [![Сайт](https://img.shields.io/badge/Сайт-freshlike.games-76c442?style=for-the-badge&logo=google-chrome&logoColor=white)](https://freshlike.games/)

@@ -2,6 +2,7 @@
 
 <img src="https://freshlike.games/images/512x512.png" width="130" alt="freshLike! Logo" />
 # freshLike!
+
 ### Официальный GitHub-профиль проекта Minecraft-сервера **freshLike!**
 *Разработка кастомных плагинов, систем безопасности и серверной инфраструктуры.*
 <br/>

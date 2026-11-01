@@ -5,7 +5,7 @@
 # freshLike!
 
 ### Официальный GitHub-профиль проекта Minecraft-сервера **freshLike!**
-*Разработка кастомных плагинов, систем безопасности и серверной инфраструктуры.*
+*Разработка кастомных плагинов.*
 <br/>
 
 [![Сайт](https://img.shields.io/badge/Сайт-freshlike.games-76c442?style=for-the-badge&logo=google-chrome&logoColor=white)](https://freshlike.games/)

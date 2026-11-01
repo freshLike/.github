@@ -59,5 +59,5 @@
 <br/>
 
 <div align="center">
-  <sub>© 2026 freshLike! Server. Все права защищены.</sub>
+  <sub>© 2026 freshLike! Все права защищены.</sub>
 </div>

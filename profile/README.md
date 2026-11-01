@@ -8,8 +8,8 @@
 <br/>
 
 [![Сайт](https://img.shields.io/badge/Сайт-freshlike.games-76c442?style=for-the-badge&logo=google-chrome&logoColor=white)](https://freshlike.games/)
-[![Telegram](https://img.shields.io/badge/Telegram-Канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/freshlike)
-[![Discord](https://img.shields.io/badge/Discord-Сервер-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://freshlike.games/)
+[![Telegram](https://img.shields.io/badge/Telegram-Канал-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/frshlk)
+[![Discord](https://img.shields.io/badge/Discord-Сервер-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://https://discord.gg/ruGvDrVNHe)
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.20+-orange?style=for-the-badge&logo=minecraft&logoColor=white)](https://freshlike.games/)
 
 </div>
@@ -52,8 +52,8 @@
 
 - 🌍 **Веб-сайт:** [freshlike.games](https://freshlike.games/)
 - 📜 **Правила сервера:** [freshlike.games/rules](https://freshlike.games/rules)
-- 🛒 **Магазин:** [freshlike.games/shop](https://freshlike.games/shop)
-- 📢 **Telegram:** [@freshlike](https://t.me/freshlike)
+- 🛒 **Магазин:** [shop.freshlike.games](https://shop.freshlike.games)
+- 📢 **Telegram:** [@frshlk](https://t.me/frshlk)
 
 <br/>
 
